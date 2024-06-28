@@ -1,3 +1,12 @@
+Postgres cluster builder-postgres created
+  Username:    postgres
+  Password:    j6E38mzLEE3JF6I
+  Hostname:    builder-postgres.internal
+  Flycast:     fdaa:9:747e:0:1::2
+  Proxy port:  5432
+  Postgres port:  5433
+  Connection string: postgres://postgres:j6E38mzLEE3JF6I@builder-postgres.flycast:5432
+
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/fly-apps/postgres-flex)
 [![DeepSource](https://deepsource.io/gh/fly-apps/postgres-flex.svg/?label=active+issues&token=VOdkBvMAf90cLzNVB3k0WpJC)](https://deepsource.io/gh/fly-apps/postgres-flex/?ref=repository-badge)
 
